@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Roque 👋
 
-<!--
-**roquedesouza209-developer/roquedesouza209-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build digital systems that solve real-world inefficiencies.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Building
+- Motion → Social media platform for sharing and discovery
+- ClosetVault → Secure cloud storage system
+- NoteCollab → Real-time collaborative notes
+- MasterWrite → Grammar training and writing improvement
+- AcademicEase → Academic results management system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Focus
+I focus on turning everyday inefficiencies into working digital solutions.
+
+## 📊 Impact
+- Scaled Visualixe from 5 → 100 members  
+- Reached 600+ students through projects  
+- Spend 20+ hours/week building  
+
+## 🛠 Tech
+- TypeScript  
+- Next.js  
+- Web App Development  
+
+## 🎯 Goal
+Build scalable systems that improve how people learn, work, and collaborate.
