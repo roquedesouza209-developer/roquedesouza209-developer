@@ -1,30 +1,55 @@
-# Hi, I'm Roque 👋
+# Hi, I’m Roque 👋
 
-I build digital systems that solve real-world inefficiencies.
+I build systems that turn real-world inefficiencies into practical digital solutions.
+
+
 
 ## 🚀 What I’m Building
-Currently building **Motion** — a full-featured social platform exploring system design, user interaction, and scalability.
 
-## 🧠 Projects
-- **Motion** → Social media platform for sharing, messaging, and discovery  
-- **ClosetVault** → Secure cloud storage and file management system  
-- **NoteCollab** → Real-time collaborative note-taking platform  
-- **MasterWrite** → Writing improvement and grammar training tool  
-- **AcademicEase** → Academic results management and performance analysis system  
+Currently building **Motion** — a social platform focused on interaction, discovery, and scalable system design.
+
+
+
+## 🧠 Selected Projects
+
+Here are some of the key systems I’m building:
+
+- **Motion** — Social platform for content sharing, messaging, and discovery  
+- **ClosetVault** — Secure cloud storage and file management system  
+- **NoteCollab** — Real-time collaborative note-taking platform  
+- **MasterWrite** — Writing improvement and grammar training tool  
+- **AcademicEase** — Academic results management and performance analysis system  
+
+…and more projects across productivity, education, and digital systems.
+
+
 
 ## 📊 Impact
-- Scaled Visualixe from 5 → 100 members  
-- Reached 600+ students through projects  
-- Commit 20+ hours/week building and leading  
+
+- Built and launched multiple web applications used by students  
+- Focused on solving inefficiencies in academic and digital workflows  
+- Continuously building and iterating on real-world tools  
+
+
 
 ## 🛠 Tech
+
 - TypeScript  
 - Next.js  
-- Web App Development  
-- System Design (learning through building)  
+- JavaScript  
+- Web Application Development  
+- System Design  
 
-## 🎯 Focus
-I focus on identifying inefficiencies in everyday systems and building simple, scalable digital solutions to improve them.
 
-## 🔭 Goal
-To build systems that improve how people learn, work, and collaborate.
+
+## 🌍 Vision
+
+I focus on building systems that simplify how people learn, work, and manage information — especially in environments still relying on manual processes.
+
+
+
+## 📫 Connect
+
+- GitHub: https://github.com/roquedesouza209-developer  
+- LinkedIn: https://www.linkedin.com/in/roque-desouza  
+- Email: roquedesouza209@gmail.com
